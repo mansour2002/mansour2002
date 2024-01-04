@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I am Mansour
 
-<!--
-**mansour2002/mansour2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Machine learning (ML), artificial intelligence (AI), and computer vision researcher/engineer.
 
-Here are some ideas to get you started:
+    I’m currently working on the classification and segmentation of retinal images (Optical Coherence Tomography (OCT) and OCT angiography (OCTA)) for disease detection, classification, and treatment analysis.
+    I'm using deep learning models as well as traditional machine learning models.
+    I'm employing OpenCV for image processing and traditional computer vision implementations.
+    I'm interested in the real-world applications of AI.
+    I'm deepening my understanding of Generative AI by studying how LLMs can empower NLP and computer vision tasks.
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Coding
+  
+    Python, C++, MATLAB
+
