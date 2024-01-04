@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Mansour
 
+===============================================================
 I am a Machine learning (ML), artificial intelligence (AI), and computer vision researcher/engineer.
 
     I’m currently working on the classification and segmentation of retinal images for disease detection, classification, and treatment analysis.
@@ -11,6 +12,6 @@ I am a Machine learning (ML), artificial intelligence (AI), and computer vision 
 
 
 ### Coding
-  
+===============================================================
     Python, C++, MATLAB
 
